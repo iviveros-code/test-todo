@@ -17,6 +17,7 @@ const TodosList = () => {
           source={require('./assets/cactus.jpg')}
           style={{width: 400, height: 400}}
         />
+        <Text>Hola</Text>
       </SafeAreaView>
     </View>
   );
